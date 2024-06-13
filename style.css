@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: lightsalmon;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15% auto;
+    height: 10%;
+    width: 60%;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+h1{
+    background-color: lightsalmon;
+    color:brown;
+}
+
+.para{
+    background-color: lightsalmon;
+    margin: 20px 10px;
+    font-size: 18px;
+}
+.button{
+   margin: 10px;
+   background-color: lightsalmon;
+}
+#btn{
+   border: none;
+    padding: 9px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: brown;
+    color: white;
+}
